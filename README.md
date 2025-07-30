@@ -1,5 +1,5 @@
 # giancarlo
-Hi, I'm Giancarlo Gordillo
+# Hi, I'm Giancarlo Gordillo
 I’m a Senior Marketing Program Manager with over 10 years of experience in the tech industry, specializing in Open Source, Developer Relations, and global go-to-market strategy.
 
 Currently at CloudLinux and TuxCare, I lead the strategy and execution of developer-focused programs across the Americas, EMEA, and Asia. This includes end-to-end event planning, product launches, partner campaigns, and joint sponsorships. I work cross-functionally with product, engineering, DevRel, sales, and marketing teams to deliver high-impact programs that align with KPIs and drive measurable ROI.
